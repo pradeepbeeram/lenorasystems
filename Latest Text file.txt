@@ -1,6 +1,6 @@
 HI all
 
 have
- a+b
- nice 
+a
+nice 
 day
