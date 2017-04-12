@@ -1,3 +1,3 @@
 # lenorasystems
 
-Have a nice Day Aakash
+Have a nice Day
