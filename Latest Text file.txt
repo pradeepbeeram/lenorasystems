@@ -1,6 +1,6 @@
-HI all
+HI all gud morning
 
 have
- a+b
- nice 
+a
+nice 
 day
